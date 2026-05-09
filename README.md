@@ -1,6 +1,6 @@
 # CD25262-6
 Capstone Design 25/26 Smt 1 Kelompok 6
-Anggota
+# Anggota
 
 1. Mahasiswa: @gamthekid
 2. Mahasiswa: @khaeranita
