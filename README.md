@@ -26,14 +26,6 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 - Perlu baca kembali dokumen desain
 - Lihat detil untuk masing-masing komponen desain
 
-# CD25262-6
-Capstone Design 25/26 Smt 1 Kelompok 6
-
-# Anggota
-1. Mahasiswa: @gamthekid
-2. Mahasiswa: @khaeranita
-3. Mahasiswa: @rezanrarfn
-
 ### 07 Mei 2026
 
 #### Yang sudah dilakukan
@@ -54,14 +46,6 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 #### Catatan
 
 - hasil timbang load cell kadang berubah, perlu dilakukan kalibrasi berulang-ulang
-
-# CD25262-6
-Capstone Design 25/26 Smt 1 Kelompok 6
-
-# Anggota
-1. Mahasiswa: @gamthekid
-2. Mahasiswa: @khaeranita
-3. Mahasiswa: @rezanrarfn
 
 ### 13 Mei 2026
 
