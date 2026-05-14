@@ -41,7 +41,7 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 - kalibrasi load cell, PIC: @rezanrarfn @khaeranita @gamthekid
 - membuat program untuk esp32 dan membuat tempat untuk motor dc, PIC: @rezanrarfn @khaeranita
 - membuat piringan penyebar pakan, PIC: @gamthekid
-- ![image alt]()
+- ![image alt](https://github.com/khaeranita/rani-s-repo/blob/b5992717ce1e4384669ee4d4c37e995073cc046e/gambarrghhh.jpg)
 
 #### Masalah yang dihadapi
 
@@ -49,7 +49,7 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 
 #### Yang akan dilakukan
 
-- [ ] mengkoneksikan dengan blynk untuk monitoring, PIC: @gamthekid @khaeranita @rezanrarfn
+- mengkoneksikan dengan blynk untuk monitoring, PIC: @gamthekid @khaeranita @rezanrarfn
 
 #### Catatan
 
