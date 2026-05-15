@@ -51,9 +51,8 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 
 #### Yang sudah dilakukan
 
-- kalibrasi load cell, PIC: @rezanrarfn @khaeranita @gamthekid
-- membuat program untuk esp32 dan membuat tempat untuk motor dc, PIC: @rezanrarfn @khaeranita
-- membuat piringan penyebar pakan, PIC: @gamthekid
+- memasang alas pada kerangka untuk tempat motor dc dan komponen lain dan memodifikasi galon untuk wadah pakan supaya bisa diisi ulang.@gamthekid
+- menyambungkan adaptor ke komponen dan mengatur LM2596 stepdown PIC: @rezanrarfn @khaeranita @gamthekid
 - mencoba putaran motor dc, memasang motor dc ke piringan : PIC: @khaeranita @agamthekid @rezanrarfn
 - ![image alt](https://github.com/khaeranita/rani-s-repo/blob/87b6fea695727a820503fc82429c55b7da80696f/day%203.jpeg)
 
