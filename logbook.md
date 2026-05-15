@@ -1,19 +1,17 @@
-## Logbook Kelompok X
+# CD25262-6
+Capstone Design 25/26 Smt 1 Kelompok 6
+# Anggota
 
-Mata kuliah: Capstone Design
+1. Mahasiswa: @gamthekid
+2. Mahasiswa: @khaeranita
+3. Mahasiswa: @rezanrarfn
 
-Semester: Gasal 2025/2026
-
-Anggota
-
-1. Mahasiswa: @mahasiswa
-2. Mahasiswa @mahasiswa
-
-### 28 Okt 2025
+### 01 Mei 2026
 
 #### Yang sudah dilakukan
 
-- Belum ada :sweat_smile:
+- Membuat kerangka smart feeder menggunakan pipa, PIC: @gamthekid
+- ![image alt](https://github.com/gamthekid/Capstone/blob/main/WhatsApp%20Image%202026-05-01%20at%2008.51.45.jpeg?raw=true)
 
 #### Masalah yang dihadapi
 
@@ -21,94 +19,51 @@ Anggota
 
 #### Yang akan dilakukan
 
-- [ ] Mendaftar apa saja yang akan dilakukan, PIC: @mahasiswa
+- [ ] Mendaftar apa saja yang akan dibutuhkan, PIC: @gamthekid @khaeranita @rezanrarfn
 
 #### Catatan
 
 - Perlu baca kembali dokumen desain
 - Lihat detil untuk masing-masing komponen desain
 
-### 04 Nov 2025
+### 07 Mei 2026
 
 #### Yang sudah dilakukan
 
-- Memasang kabel USB ke mikrokontroler untuk cek deteksi perangkat
-- Mencari pustaka untuk mengambil gambar via webcam
+- kalibrasi load cell, PIC: @rezanrarfn @khaeranita @gamthekid
+- membuat program untuk esp32 dan membuat tempat untuk motor dc, PIC: @rezanrarfn @khaeranita
+- membuat piringan penyebar pakan, PIC: @gamthekid
+- ![image alt](https://github.com/khaeranita/rani-s-repo/blob/b5992717ce1e4384669ee4d4c37e995073cc046e/gambarrghhh.jpg)
 
 #### Masalah yang dihadapi
 
-- Kabel USB rusak
-- Program pengambil gambar tidak dapat dikompilasi
+- Belum ada
 
 #### Yang akan dilakukan
 
-- [ ] Membeli kabel USB di toko sebelah, PIC: @ahmad
-- [ ] Mencari solusi masalah kompilasi program pengambil gambar, PIC: @mahasiswa
+- mengkoneksikan dengan blynk untuk monitoring, PIC: @gamthekid @khaeranita @rezanrarfn
 
 #### Catatan
 
-- Kabel USB 2.0, bukan 1.0
-- Mungkin masalah kompilasi adalah versi pustaka A lama
+- hasil timbang load cell kadang berubah, perlu dilakukan kalibrasi berulang-ulang
 
-### 11 Nov 2025
+### 13 Mei 2026
 
 #### Yang sudah dilakukan
 
-- Membeli kabel USB 2.0 di toko yang satunya
-- Mengkompilasi program pengambil gambar dan berhasil
-- Mengkompilasi satu fungsi untuk program kontroler
+- memasang alas pada kerangka untuk tempat motor dc dan komponen lain dan memodifikasi galon untuk wadah pakan supaya bisa diisi ulang.@gamthekid
+- menyambungkan adaptor ke komponen dan mengatur LM2596 stepdown PIC: @rezanrarfn @khaeranita @gamthekid
+- mencoba putaran motor dc, memasang motor dc ke piringan : PIC: @khaeranita @agamthekid @rezanrarfn
+- ![image alt](https://github.com/khaeranita/rani-s-repo/blob/87b6fea695727a820503fc82429c55b7da80696f/day%203.jpeg)
 
 #### Masalah yang dihadapi
 
-- Fungsi C pada program kontroler membutuhkan pustaka Z
-- Program pengambil gambar bekerja tapi putus-putus
+- Belum ada
 
 #### Yang akan dilakukan
 
-- [ ] Mengunduh pustaka Z dan mengkompilasi kembali, PIC: @yoda
-- [ ] Mencari solusi gambar putus-putus, PIC: @ahmad
+- mengkoneksikan dengan blynk untuk monitoring, PIC: @gamthekid @khaeranita @rezanrarfn
 
 #### Catatan
 
-- Kemungkinan kecepatan (*speed*) kabel USB kurang
-- Perlu pinjam teman kabel USB 3.0 dan coba tes
-
-### 18 Nov 2025
-
-#### Yang sudah dilakukan
-
-#### Masalah yang dihadapi
-
-#### Yang akan dilakukan
-
-#### Catatan
-
-### 25 Nov 2025
-
-#### Yang sudah dilakukan
-
-#### Masalah yang dihadapi
-
-#### Yang akan dilakukan
-
-#### Catatan
-
-### 02 Des 2025
-
-#### Yang sudah dilakukan
-
-#### Masalah yang dihadapi
-
-#### Yang akan dilakukan
-
-#### Catatan
-
-### 09 Des 2025
-
-#### Yang sudah dilakukan
-
-#### Masalah yang dihadapi
-
-#### Yang akan dilakukan
-
-#### Catatan
+- perlu trial n error beberapa kali
