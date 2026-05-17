@@ -1,69 +1,30 @@
-# CD25262-6
-Capstone Design 25/26 Smt 1 Kelompok 6
-# Anggota
+### CAPSTONE DESIGN 2026
 
-1. Mahasiswa: @gamthekid
-2. Mahasiswa: @khaeranita
-3. Mahasiswa: @rezanrarfn
+### KELOMPOK 6 - capstun
 
-### 01 Mei 2026
+### Members
+1. Reza Nur 'Arifin - H1A023018
+2. Khaerani Julieta Faestri - H1A023024
+3. Agam Priatama - H1A023056
 
-#### Yang sudah dilakukan
+### Project Title
+<p align="center">Smart Feeder Ikan Lele Brbasis <i>Internet of Things</i></p>
 
-- Membuat kerangka smart feeder menggunakan pipa, PIC: @gamthekid
-- ![image alt](https://github.com/gamthekid/Capstone/blob/main/WhatsApp%20Image%202026-05-01%20at%2008.51.45.jpeg?raw=true)
+### Project Description
+&nbsp;&nbsp;&nbsp;&nbsp;Seiring bertambahnya tahun, sektor perikanan semakin berkembang, salah satunya adalah semakin banyaknya budidaya ikan lele yang dilakukan oleh masyarakat. Budidaya ikan lele banyak diminati oleh masyarakat karena ekonomis dan pemeliharaannya mudah. Namun pertumbuhan ikan lele salah satunya dipengaruhi oleh faktor pemberian pakan yang tepat waktu dan sesuai dengan kebutuhan berat pakan. Oleh karena itu dibuatlah produk Smart Feeder Ikan Lele Berbasis Internet Of Things yang dapat membantu pembudidaya dalam pemberian pakan dan mempermudah proses budidaya ikan lele. Project Capstone ini memiliki tema smart aquaculture. 
 
-#### Masalah yang dihadapi
+&nbsp;&nbsp;&nbsp;&nbsp;Oleh karena itu, kami mengembangkan produk bernama Smart Feeder Ikan Lele Berbasis IoT sebagai solusi pemberian pakan otomatis yang lebih efisien dan modern. Alat ini mampu memberikan pakan sesuai jadwal serta dapat dipantau secara jarak jauh melalui sistem berbasis Internet of Things (IoT), sehingga alat ini dapat membantu pembudidaya dalam mengurangi pemborosan pakan dan mempermudah proses pemeliharaan ikan lele.
 
-- Belum ada
+### System Requirements
+-
+-
+-
+-
 
-#### Yang akan dilakukan
+### Contact Us
+![capstun Members]()
 
-- [ ] Mendaftar apa saja yang akan dibutuhkan, PIC: @gamthekid @khaeranita @rezanrarfn
-
-#### Catatan
-
-- Perlu baca kembali dokumen desain
-- Lihat detil untuk masing-masing komponen desain
-
-### 07 Mei 2026
-
-#### Yang sudah dilakukan
-
-- kalibrasi load cell, PIC: @rezanrarfn @khaeranita @gamthekid
-- membuat program untuk esp32 dan membuat tempat untuk motor dc, PIC: @rezanrarfn @khaeranita
-- membuat piringan penyebar pakan, PIC: @gamthekid
-- ![image alt](https://github.com/khaeranita/rani-s-repo/blob/b5992717ce1e4384669ee4d4c37e995073cc046e/gambarrghhh.jpg)
-
-#### Masalah yang dihadapi
-
-- Belum ada
-
-#### Yang akan dilakukan
-
-- mengkoneksikan dengan blynk untuk monitoring, PIC: @gamthekid @khaeranita @rezanrarfn
-
-#### Catatan
-
-- hasil timbang load cell kadang berubah, perlu dilakukan kalibrasi berulang-ulang
-
-### 13 Mei 2026
-
-#### Yang sudah dilakukan
-
-- memasang alas pada kerangka untuk tempat motor dc dan komponen lain dan memodifikasi galon untuk wadah pakan supaya bisa diisi ulang.@gamthekid
-- menyambungkan adaptor ke komponen dan mengatur LM2596 stepdown PIC: @rezanrarfn @khaeranita @gamthekid
-- mencoba putaran motor dc, memasang motor dc ke piringan : PIC: @khaeranita @agamthekid @rezanrarfn
-- ![image alt](https://github.com/khaeranita/rani-s-repo/blob/87b6fea695727a820503fc82429c55b7da80696f/day%203.jpeg)
-
-#### Masalah yang dihadapi
-
-- Belum ada
-
-#### Yang akan dilakukan
-
-- mengkoneksikan dengan blynk untuk monitoring, PIC: @gamthekid @khaeranita @rezanrarfn
-
-#### Catatan
-
-- perlu trial n error beberapa kali
+_Instagram_ <br>
+[Reza Nur Arifin() <br>
+[Khaerani Julieta F](https://www.instagram.com/khaeranijulieta/) <br>
+[Agam Priatama]()
