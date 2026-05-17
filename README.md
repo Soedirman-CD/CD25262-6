@@ -16,11 +16,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Oleh karena itu, kami mengembangkan produk bernama Smart Feeder Ikan Lele Berbasis IoT sebagai solusi pemberian pakan otomatis yang lebih efisien dan modern. Alat ini mampu memberikan pakan sesuai jadwal serta dapat dipantau secara jarak jauh melalui sistem berbasis Internet of Things (IoT), sehingga alat ini dapat membantu pembudidaya dalam mengurangi pemborosan pakan dan mempermudah proses pemeliharaan ikan lele.
 
 ### System Requirements
--Sistem mampu memonitoring berat pakan menggunakan sensor load cell secara real-time saat pakan dijatuhkan.
--Sistem mampu mengontrol aktuator servo secara otomatis untuk membuka dan menutup katup wadah pakan.
--Sistem mampu mengontrol motor DC untuk memutar piringan penyebar pakan secara otomatis.
--Sistem mampu menjalankan pemberian pakan berdasarkan setpoint yang telah ditentukan.
--Sistem mampu menampilkan data monitoring berat pakan pada aplikasi Blynk.
+- Sistem mampu memonitoring berat pakan menggunakan sensor load cell secara real-time saat pakan dijatuhkan.
+- Sistem mampu mengontrol aktuator servo secara otomatis untuk membuka dan menutup katup wadah pakan.
+- Sistem mampu mengontrol motor DC untuk memutar piringan penyebar pakan secara otomatis.
+- Sistem mampu menjalankan pemberian pakan berdasarkan setpoint yang telah ditentukan.
+- Sistem mampu menampilkan data monitoring berat pakan pada aplikasi Blynk.
 
 ### Contact Us
 ![capstun Members]()
