@@ -25,6 +25,6 @@
 ![capstun Members]()
 
 _Instagram_ <br>
-[Reza Nur 'Arifin](https://www.instagram.com//) <br>
+[Reza Nur 'Arifin](https://www.instagram.com/rznrarfn/) <br>
 [Khaerani Julieta F](https://www.instagram.com/khaeranijulieta/) <br>
 [Agam Priatama](https://www.instagram.com/agamprr/)
