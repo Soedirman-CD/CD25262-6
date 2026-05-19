@@ -76,7 +76,7 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 - mensolder kabel rangkaian di pcb  PIC: @gamthekid @khaeranita @rezanrarfn
 - kalibrasi ulang (cek cek ulang) load cell PIC : @gamthekid
 - ![image alt](https://github.com/khaeranita/rani-s-repo/blob/fb1e28f5f1a95af974f2c604b778fb7e933292a9/tgl%2019.jpeg)
-- ![image alt]()
+- ![image alt](https://github.com/khaeranita/rani-s-repo/blob/fb1e28f5f1a95af974f2c604b778fb7e933292a9/tgl%2019%203.jpeg)
 - ![image alt]()
 
 #### Masalah yang dihadapi
