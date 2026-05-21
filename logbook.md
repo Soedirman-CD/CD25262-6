@@ -96,5 +96,15 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 #### Yang sudah dilakukan
 
 - membuat dasbor pada aplikasi blynk PIC : @rezanrarfn
-- ![image alt]
-<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/aebf29b4-27a4-4497-ba2c-a1464ce76803" />
+- <img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/aebf29b4-27a4-4497-ba2c-a1464ce76803" />
+
+### Masalah yang dihadapi
+
+- Belum ada
+
+#### Yang akan dilakukan
+
+- Menghubungkan dengan hardware (sensor dan aktuator) serta melakukan monitoring terhadap sistemnya PIC : @gamthekid @khaeranita @rezanrarfn
+
+#### Catatan
+- perlu trial n error beberapa kali :D
