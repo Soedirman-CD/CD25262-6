@@ -96,8 +96,9 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 
 - membuat dasbor pada aplikasi blynk PIC : @rezanrarfn
 - memasang loadcell dan motor dc ke alas, PIC : @gamthekid
+- ![image alt](https://github.com/gamthekid/Capstone/blob/main/20260521_194154.jpg?raw=true)
 - membuat wadah pakan, PIC : @khaeranijulieta @gamthekid
-- merangkai wiring komponen, PIC : @rezanrarfn @khaeranijulieta
+- merangkai wiring komponen, PIC : @rezanrarfn @khaeranijulieta  @gamthekid
 - membuat program kalibrasi loadcell, PIC : @gamthekid
 - <img width="720" height="1480" alt="Image" src="https://github.com/user-attachments/assets/965e1575-a5f8-4253-8547-bd1c06f6ac51" />
 
@@ -111,5 +112,6 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 
 #### Catatan
 - perlu trial n error beberapa kali :D
-- memasang wadah pakan ke rangka pipa 
+- memasang wadah pakan ke rangka pipa
+- memasang servo diwadah pakan 
 
