@@ -90,3 +90,11 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 #### Catatan
 - perlu menyesuaikan jadwal kelas yang berbeda:(
 - perlu trial n error beberapa kali :D
+
+### 21 Mei 2026
+
+#### Yang sudah dilakukan
+
+- membuat dasbor pada aplikasi blynk PIC : @rezanrarfn
+- ![image alt]
+<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/aebf29b4-27a4-4497-ba2c-a1464ce76803" />
