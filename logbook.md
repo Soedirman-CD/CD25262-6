@@ -101,6 +101,8 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 - merangkai wiring komponen, PIC : @rezanrarfn @khaeranijulieta  @gamthekid
 - membuat program awal kalibrasi loadcell, PIC : @gamthekid
 - <img width="720" height="1480" alt="Image" src="https://github.com/user-attachments/assets/965e1575-a5f8-4253-8547-bd1c06f6ac51" />
+- Membuat alas motor dc ke load cell
+-  ![image alt](https://github.com/gamthekid/Capstone/blob/main/20260525_160851.jpg?raw=true)
 
 ### Masalah yang dihadapi
 
