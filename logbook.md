@@ -113,5 +113,6 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 #### Catatan
 - perlu trial n error beberapa kali :D
 - memasang wadah pakan ke rangka pipa
-- memasang servo diwadah pakan 
+- memasang servo diwadah pakan
+- melakukan pengujian komponen dan sistem
 
