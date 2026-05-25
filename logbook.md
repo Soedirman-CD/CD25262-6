@@ -99,7 +99,7 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 - ![image alt](https://github.com/gamthekid/Capstone/blob/main/20260521_194154.jpg?raw=true)
 - membuat wadah pakan, PIC : @khaeranijulieta @gamthekid
 - merangkai wiring komponen, PIC : @rezanrarfn @khaeranijulieta  @gamthekid
-- membuat program kalibrasi loadcell, PIC : @gamthekid
+- membuat program awal kalibrasi loadcell, PIC : @gamthekid
 - <img width="720" height="1480" alt="Image" src="https://github.com/user-attachments/assets/965e1575-a5f8-4253-8547-bd1c06f6ac51" />
 
 ### Masalah yang dihadapi
