@@ -151,7 +151,7 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 
 #### Yang akan dilakukan
 
-- Menghubungkan dengan hardware (sensor dan aktuator) serta melakukan monitoring terhadap sistemnya PIC : @gamthekid @khaeranita @rezanrarfn
+- Menghubungkan dengan hardware (sensor dan aktuator) serta melakukan monitoring menggunakan blynk  PIC : @gamthekid @khaeranita @rezanrarfn
 
 #### Catatan
 - perlu trial n error beberapa kali :D
