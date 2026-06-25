@@ -153,8 +153,16 @@ Capstone Design 25/26 Smt 1 Kelompok 6
 
 - Menghubungkan dengan hardware (sensor dan aktuator) serta melakukan monitoring menggunakan blynk  PIC : @gamthekid @khaeranita @rezanrarfn
 
-#### Catatan
+- #### Catatan
 - perlu trial n error beberapa kali :D
 - memasang wadah pakan ke rangka pipa
 - memasang servo diwadah pakan
 - melakukan pengujian komponen dan sistem
+
+- #### Desain Awal
+-  ![image alt]([https://github.com/gamthekid/Capstone/blob/main/20260603_194731.jpg?raw=true](https://github.com/gamthekid/Capstone/blob/main/Screenshot%202026-04-10%20085311.png?raw=true))
+
+- #### Desain Akhir
+-  ![image alt]([https://github.com/gamthekid/Capstone/blob/main/20260603_194731.jpg?raw=true](https://github.com/gamthekid/Capstone/blob/main/final%20cp.jpeg?raw=true))
+
+
